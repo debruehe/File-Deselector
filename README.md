@@ -21,9 +21,9 @@ xcode-select --install
 ## Install
 
 1. Clone or download this repo
-2. In Terminal, drag `install-finder-pdf-deselector.sh` onto the window and press Enter:
+2. In Terminal, drag `install-finder-deselector.sh` onto the window and press Enter:
 ```bash
-bash /path/to/install-finder-pdf-deselector.sh
+bash /path/to/install-finder-deselector.sh
 ```
 3. When prompted, grant **Accessibility** permission to the installed binary
 
